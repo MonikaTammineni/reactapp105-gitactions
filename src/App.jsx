@@ -5,8 +5,9 @@ function App(){
         <div className="container">
             <h1>Welcome to My React Project - s105</h1>
             <h1>CI/CD and Cloud DevOps</h1>
-            <p>This is a simple React homepage deploed on github pages using vite</p>
+            <p>This is a simple React homepage deploed on GitHub Actions using vite</p>
         </div>
     );
 }
+
 export default App;
